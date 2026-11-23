@@ -1,4 +1,4 @@
-# TRAVEL-JOURNAL
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
